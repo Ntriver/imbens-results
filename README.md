@@ -1,4 +1,15 @@
 # imbens-results
+This work presents an empirical study on imbalanced ensembles to establish a reliable benchmark performance for future studies. 
+Findings:
+1) SelfPacedEnsemble performed the best on average among all methods in terms of four metrics.
+2) RUSBoost yielded the worst average results, which contradtics previous studies.
+Some results here:
+<img width="1005" height="840" alt="image" src="https://github.com/user-attachments/assets/571c139f-6dc9-445d-b334-2943187247d7" />
+<img width="1563" height="954" alt="image" src="https://github.com/user-attachments/assets/848b449b-395b-4e38-b8f1-7c2a1a4a5327" />
+
+
+
+
 ## Run procedure:
 1. process_data.py
 2. get_split_data.py
